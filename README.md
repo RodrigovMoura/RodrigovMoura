@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RodrigovMoura
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React / Angular
+- 👀 I’m interested in be a full stack developer
+- 🌱 I’m currently learning about NodeJs
 - 📫 You can find me on Instagram = "rodrigo.vmoura" or LinkedIn = "Rodrigo Moura"
-
