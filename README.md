@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RodrigovMoura
 - 👀 I’m interested in be a full stack developer
-- 🌱 I’m currently learning about NodeJs
+- 🌱 I’m currently learning about React
 - 📫 You can find me on Instagram = "rodrigo.vmoura" or LinkedIn = "Rodrigo Moura"
